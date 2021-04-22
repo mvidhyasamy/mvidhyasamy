@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvidhyasamy
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Spring boot based api development for dilmah Srilanka
+- 🌱 I’m currently learning Spring boot based api development
 - 💞️ I’m looking to collaborate on application projects
 - 📫 How to reach me samy.vidhya@gmail.com
 
